@@ -28,15 +28,6 @@ a mild level of corruption and class 3, the image is heavily degraded, Fig. 1.
 
 ![Figure 1.](https://github.com/sarcDV/Motion-on-flight/blob/main/fig-1.png)
 
-Get my latest tutorials
-Email
-Related tutorials
-How to create a tag in GitHub Repository
-How to clone all branches from a remote git repository
-How to change a remote URL in Git
-How to modify the commit messages in Git
-How to push all tags to remote in Git
-
 ## Results/Discussion
 
 The average classification accuracy levels reached were 98.39% and 98.92%, for ResNeXt and DenseNet, respectively. 
