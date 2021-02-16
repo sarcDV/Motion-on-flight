@@ -1,5 +1,7 @@
 # Classification of Motion Corrupted Brain MR Images using Deep Learning Techniques
-
+A. Sciarra 1,2 , M. Dünnwald 1 , S. Chatterjee 2 , O. Speck 2 , S. Oeltze-Jafra 1
+1 Medicine and Digitalization - MedDigit, Medical Faculty, Otto-von-Guericke University, Dept. of Neurology, Magdeburg, Germany, 
+2 Otto-von-Guericke University, Department of Biomedical Magnetic Resonance, Magdeburg, Germany
 
 ## Introduction
 
