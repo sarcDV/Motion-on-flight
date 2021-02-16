@@ -46,3 +46,14 @@ have learned features that go beyond the simple detection of motion artifacts, a
 We will further analyse these aspects and, if necessary, design a harmonization pre-processing step, to ensure robustness and flexibility.
 
 ![Figure 2.](https://github.com/sarcDV/Motion-on-flight/blob/main/fig-2.png)
+
+## References
+[1] Zaitsev M, Maclaren J, Herbst M. Motion artifacts in MRI: A complex problem with many partial solutions. J Magn Reson Imaging. 2015;42(4):887-901. doi:10.1002/jmri.24850
+
+[2] Chow, Li Sze, and Raveendran Paramesran. "Review of medical image quality assessment." Biomedical signal processing and control 27 (2016): 145-154.
+
+[3] Krupa, Katarzyna, and Monika Bekiesińska-Figatowska. "Artifacts in magnetic resonance imaging." Polish journal of radiology 80 (2015): 93.
+
+[4] Xie, Saining, et al. "Aggregated residual transformations for deep neural networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+
+[5] Huang, Gao, et al. "Densely connected convolutional networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
