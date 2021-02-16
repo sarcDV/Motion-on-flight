@@ -22,7 +22,7 @@ We defined a total of 33 classes in the format < contrast-orientation-motion cor
 e.g.: T1-sagittal-class-1, where, class 1 indicates no corruption, class 2, 
 a mild level of corruption and class 3, the image is heavily degraded, Fig. 1. 
 
-![Figure 1.](https://user-images.githubusercontent.com/33011208/74101378-2ef4e880-4b5f-11ea-8e9d-5ae1d811a35a.png)
+![Figure 1.](https://github.com/sarcDV/Motion-on-flight/blob/main/fig-1.png)
 
 Get my latest tutorials
 Email
@@ -44,3 +44,5 @@ However, these results are promising, yet, the robustness of the networks perfor
 It is possible that these models, given their complex architecture, 
 have learned features that go beyond the simple detection of motion artifacts, and probably learned details related to the structures. 
 We will further analyse these aspects and, if necessary, design a harmonization pre-processing step, to ensure robustness and flexibility.
+
+![Figure 2.](https://github.com/sarcDV/Motion-on-flight/blob/main/fig-2.png)
