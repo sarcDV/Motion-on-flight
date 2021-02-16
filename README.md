@@ -22,6 +22,17 @@ We defined a total of 33 classes in the format < contrast-orientation-motion cor
 e.g.: T1-sagittal-class-1, where, class 1 indicates no corruption, class 2, 
 a mild level of corruption and class 3, the image is heavily degraded, Fig. 1. 
 
+![Figure 1.](https://user-images.githubusercontent.com/33011208/74101378-2ef4e880-4b5f-11ea-8e9d-5ae1d811a35a.png)
+
+Get my latest tutorials
+Email
+Related tutorials
+How to create a tag in GitHub Repository
+How to clone all branches from a remote git repository
+How to change a remote URL in Git
+How to modify the commit messages in Git
+How to push all tags to remote in Git
+
 ## Results/Discussion
 
 The average classification accuracy levels reached were 98.39% and 98.92%, for ResNeXt and DenseNet, respectively. 
